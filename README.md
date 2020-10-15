@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with ...Google
 - 🤔 I’m looking for help with ...Anyone
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[twitter](http:www.twitter.com/iam_the_code)
+- 📫 How to reach me: ...[twitter](http:www.twitter.com/okpe_onoja)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i am half finish
 -->
