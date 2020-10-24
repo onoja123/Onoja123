@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...WeYelp
-- 🌱 I’m currently learning ...Flutter,figma and javascript
+- 🌱 I’m currently learning ...figma to make cool designs
 - 👯 I’m looking to collaborate with ...Google
 - 🤔 I’m looking for help with ...Anyone
 - 💬 Ask me about ...Anything
