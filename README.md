@@ -24,11 +24,11 @@ I love to code.
 <h1 align="center">Socials 🤝🏾</h1>
 
 <p align="center">
-    <a href="https://twitter.com/iam_the_code" target="_blank">
+    <a href="https://twitter.com/okpe_onoja" target="_blank">
         <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="onoja" height="50" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/okpeonoja" target="_blank"
+    <a href="https://linkedin.com/in/onoja123" target="_blank"
         ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="onoja" height="50" />
     </a>
     &nbsp;
@@ -36,7 +36,7 @@ I love to code.
         <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="onoja" height="50" />
     </a>
     &nbsp;
-    <a href="https://instagram.com/iam_the_coee" target="_blank">
+    <a href="https://instagram.com/okpe_onoja" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="onoja" height="50" />
     </a>
   
