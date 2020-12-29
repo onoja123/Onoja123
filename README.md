@@ -36,7 +36,7 @@ I love to code.
         <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="onoja" height="50" />
     </a>
     &nbsp;
-    <a href="https://instagram.com/okpe_onoja" target="_blank">
+    <a href="https://instagram.com/iam_the_code" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="onoja" height="50" />
     </a>
   
