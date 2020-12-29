@@ -21,7 +21,23 @@ I love to code.
     <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="40"/> 
 </p>
 
+<h1 align="center">Socials 🤝🏾</h1>
 
-- 
-
-<h1 
+<p align="center">
+    <a href="https://twitter.com/iam_the_code" target="_blank">
+        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="onoja" height="50" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/okpeonoja" target="_blank"
+        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="onoja" height="50" />
+    </a>
+    &nbsp;
+    <a href="https://fb.com/okpe onoja" target="_blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="onoja" height="50" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/iam_the_coee" target="_blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="onoja" height="50" />
+    </a>
+  
+</p>
