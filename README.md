@@ -1,13 +1,27 @@
-### Here is what i'm working on 👋
+<!-- <h1 align="center"> Hi there 👋🏾 </h1> -->
+<hr>
 
-Here are some ideas to get you started:
+I'm Okpe onoja
 
-- 🔭 I’m currently working on ...WeYelp
-- 🌱 I’m currently learning ...fullstack web development
-- 👯 I’m looking to collaborate with ...Google
-- 🤔 I’m looking for help with ...Anyone
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[twitter](http:www.twitter.com/okpe_onoja)
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...i am half finish
--->
+A 16-years-old Full-Stack Developer.
+
+I love to code.
+
+<h1 align="center">I can 😁:</h1>
+
+
+- use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
+- use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
+<p>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
+    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="40"/> 
+    <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="40"/> 
+</p>
+
+
+- 
+
+<h1 
