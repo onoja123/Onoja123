@@ -3,15 +3,15 @@
 
 I'm Okpe onoja
 
-A 16-years-old Full-Stack Developer.
+A 15-years-old Full-Stack Developer.
 
 I love to code.
 
 <h1 align="center">I can 😁:</h1>
 
 
-- use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
-- use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
+- use HTML5, CSS3 and Javascrpt(ES%, ES6) for the frontend.
+- use Frameworks (Bootstrap,JQuery) for fast development.
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> 
