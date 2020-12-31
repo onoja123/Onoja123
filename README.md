@@ -1,11 +1,7 @@
 <!-- <h1 align="center"> Hi there 👋🏾 </h1> -->
 <hr>
 
-I'm Okpe onoja
-
-A 15-years-old Full-Stack Developer.
-
-I love to code.
+I'm 15 years old, web designer based in Nigeria. specializing in Developing Websites.I mostly deal with front-end but i sometime deal with backend(when neccessary or needed). I'm also a part-time designer. I build clean, appealing, and functional interfaces which comply with the latest standards. I'm planning of working with google soon.
 
 <h1 align="center">I can 😁:</h1>
 
