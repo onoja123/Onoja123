@@ -3,7 +3,7 @@
 
 My name is Okpe onoja i'm 15 years old, web designer based in Nigeria. specializing in Developing Websites.I mostly deal with front-end but i sometime deal with backend(when neccessary or needed). I'm also a part-time designer. I build clean, appealing, and functional interfaces which comply with the latest standards. I'm planning of working with google soon.
 
-<h1 align="center">I can 😁:</h1>
+<h1 align="center">i can😁:</h1>
 
 
 - use HTML5, CSS3 and Javascrpt(ES%, ES6) for the frontend.
