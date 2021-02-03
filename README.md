@@ -7,9 +7,8 @@ I love to code web on my free time
 - use frame workd like(bootstrap and jquery) for powerfull web development.
 <h1 align="center"> Socials </h1>
   <p align="center">
-    <a href="https://twitter.com/okpe_onoja" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="okpe_onoja" height="50" />
-    </a>
+    <a href="https://twitter.com/okpe_onoja"  clas="fa fa-twitter" target="_blank">
+  </a>
     &nbsp;
     <a href="https://linkedin.com/in/okpe onoja" target="_blank"
         ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="okpe onoja" height="50" />
