@@ -5,7 +5,7 @@ My mission is to be one of the best persons in tech worldwide and also be the ma
 
 ## 🌱 Projects: 
 - I'm currenly building something called WeYelp(its going to be a platform that will provides help for people in need of anything thinkable)  
--  I'm also building a community to help developers and designers in Africa to connect, contribute and male Africa great
+-  I'm also building a community to help developers and designers in Africa to connect, contribute and make Africa great
 ## Get in touch
 - Twitter: https://twitter.com/okpe_onoja
 - Instagram: https://instagram.com/iam_the_code
