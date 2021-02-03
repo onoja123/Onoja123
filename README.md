@@ -1,38 +1,12 @@
-### Hi there 👋
-I'm Okpe Onoja Godwin A.K.A iamthecode
-A 15-years old developer with 7months Experience  
-I love to code web on my free time
-<h1 align="center"> I can :</h1>
--use Html, css and javascript for frontend.
-- use frame workd like(bootstrap and jquery) for powerfull web development.
-<h1 align="center"> Socials </h1>
-  <p align="center">
-    <a href="https://twitter.com/okpe_onoja"  clas="fa fa-twitter" target="_blank">
-  </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/okpe onoja" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="okpe onoja" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://fb.com/okpe onoja" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="okpe onoja" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/iam_the_code" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="okpe onoja" height="50" />
+# Samson Goddy -- OSS 🥑
+Hi, 👋I’m 15 years old developer based in Nigeria. specializing in Developing Websites. I mostly deal with front-end. i'm also a per-time designer. I build clean, appealing, and functional interfaces which comply with the latest standards. I'm planning of working with google soon.
+## ⚔️🛡Mission
+My mission is to be one of the best persons in tech worldwide and also be the manager or Ceo of google someday, i also want to bring alot of people into tech so we can make the world a better place 
 
-   
-<!--
-**onoja123/Onoja123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Projects: 
+- I'm currenly build something called WeYelp(its going to be a suportive platform to help and support people world in anyway others can.
+-I'm also building a community to help developers and designers in Africa to connect, contribute and male Africa great
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: https://twitter.com/okpe_onoja
+- Instagram: https://instagram.com/iam_the_code
