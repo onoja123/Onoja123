@@ -1,5 +1,5 @@
 
-Hi, 👋I’m 15 years old developer based in Nigeria. specializing in Developing Websites. I mostly deal with front-end. i'm also a per-time designer. I build clean, appealing, and functional interfaces which comply with the latest standards. I'm planning of working with google soon.
+Hi, 👋I’m Okpe Onoja a 15 years old developer based in Nigeria. specializing in Developing Websites. I mostly deal with front-end. i'm also a per-time designer. I build clean, appealing, and functional interfaces which comply with the latest standards. I'm planning of working with google soon.
 ## ⚔️🛡Mission
 My mission is to be one of the best persons in tech worldwide and also be the manager or Ceo of google someday, i also want to bring alot of people into tech so we can make the world a better place 
 
