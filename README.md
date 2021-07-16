@@ -1,5 +1,5 @@
 
-Hi, 👋I’m Okpe Onoja a 16 years old developer based in Nigeria. specializing in Developing new products, i'm currently a front-end developer. I build clean, appealing, and functional interfaces which comply with the latest standards. Aspiring to be an Ai engineer
+Hi, 👋I’m Okpe Onoja a 16 years old developer based in Nigeria. Specializing in Developing new products and tryig to make life easier and flexible for everyone. I'm currently a front-end developer who builds clean, appealing, and functional interfaces. 
 ## ⚔️🛡Mission
 My mission is to be one of the best persons in tech worldwide, help alot of people who are lack, to become an Ai engineer and also be a director of a top FAANG companies, i also want to bring alot of people into tech so we can make the world a better place 
 
