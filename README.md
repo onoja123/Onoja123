@@ -4,7 +4,7 @@ My mission is to be recognized as a top engineer worldwide, and ultimately be a 
 
 
 ## 🌱 Projects: 
-- I'm currenly building something called WeYelp(its going to be a platform that will provides help for people in need of anything thinkable).
+- Coming soon
 ## Get in touch
 - Twitter: https://twitter.com/okpe_onoja
 - Instagram: https://instagram.com/iam_the_code
