@@ -1,4 +1,4 @@
-I'm okpe Onoja Godwin, a software developer with about 2 years of experience who strive to develop new products that make life easier and flexible. I'm also a developer who builds clean, appealing, and functional interfaces ,databases, backend logic, APIs, and Servers..
+I'm okpe Onoja Godwin, a software developer who strives to develop new products that make life easier and flexible. I'm also a developer who builds clean, appealing, and functional interfaces ,databases, backend logic, APIs, and Servers..
 
 ## ⚔️🛡Mission
 My mission is to be recognized as a top engineer worldwide, and ultimately be a director of a top FANNG company. I also want to educate more people about tech so we can make the world a better place with technology.
