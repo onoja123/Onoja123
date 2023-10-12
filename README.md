@@ -1,6 +1,6 @@
-I'm Okpe Onoja Godwin, a software developer with years of experience who strives to develop new products that make life easier and flexible. I'm also a developer who builds clean, appealing, and functional interfaces ,databases, backend logic, APIs, and Servers..
+A software developer with 3years plus of experience with passion for creating innovative solutions that enhance convenience and flexibility. I excel at crafting polished and intuitive user interfaces, designing efficient databases, developing robust backend logic, creating APIs, configuring servers, and building mobile applications. My commitment to clean code and attention to detail ensures that the software I build not only looks appealing but also functions seamlessly across various platforms, including mobile devices.
 
-I work with NodeJS, Javascript, ReactJS, Typescript, Go, MongoDB, Docker, PostgreSQL, NestJS.
+I work with NodeJS, Javascript, ReactJS, React native, Typescript, Go, MongoDB, Docker, PostgreSQL, NestJS.
 
 ## ⚔️🛡Mission
 My goal is to become a well-known engineer on a global scale and, in the long run, a director of a premier FANNG company. In order to use technology to improve the world, I also want to educate more people about it.
