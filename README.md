@@ -8,8 +8,7 @@ My goal is to become a well-known engineer on a global scale and, in the long ru
 ## Get in touch
 - Twitter: https://twitter.com/okpe_onoja
 - Instagram: https://instagram.com/iam_the_code
-- Linkedin: https://www.linkedin.com/in/okpe-onoja-5814311b5/
-
+- Linkedin: https://www.linkedin.com/in/okpe-onoja/
 ## Hire me
 - Fiverr: https://www.fiverr.com/s/KV02p8
 
