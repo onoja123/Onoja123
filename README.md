@@ -1,20 +1,37 @@
-A full stack developer with 5+ years of experience in building high-quality applications and backend systems, I specialise in crafting intuitive UIs, scalable databases, and robust APIs. I am passionate about learning new technologies and continuously improving my skills. I thrive in team environments, where I can contribute my technical expertise and problem-solving abilities to drive successful project outcomes. I am eager to bring my creativity and dedication to drive positive results in any organisation.
+# 👨‍💻 Okpe Onoja Godwin
 
-I work with NodeJS, Javascript, ReactJS, React native, Typescript, Go, MongoDB, Docker, PostgreSQL, NestJS.
+A full-stack developer with 5+ years of experience in building high-quality applications and backend systems. I specialize in crafting intuitive UIs, scalable databases, and robust APIs. Passionate about learning new technologies and continuously improving my skills, I thrive in team environments where I can contribute my technical expertise and problem-solving abilities to drive successful project outcomes.  
 
-## ⚔️🛡Mission
-My goal is to become a well-known engineer on a global scale and, in the long run, a director of a premier FANNG company. In order to use technology to improve the world, I also want to educate more people about it.
+I am eager to bring my creativity and dedication to achieve positive results for any organization I collaborate with.
 
-## Get in touch
-- Twitter: https://twitter.com/okpe_onoja
-- Instagram: https://instagram.com/iam_the_code
-- Linkedin: https://www.linkedin.com/in/okpe-onoja/
-  
-## Hire me
-- Fiverr: https://www.fiverr.com/s/KV02p8
+---
 
+## 💼 Tech Stack  
+**Languages & Frameworks:**  
+- **Frontend:** JavaScript, ReactJS, React Native, TypeScript  
+- **Backend:** Node.js, Go, NestJS  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools & Platforms:** Docker  
 
-## 📬 Contact
-Feel free to reach out for collaborations, project inquiries, or just to say hi!
+---
 
-Thank you for visiting! 🚀
+## ⚔️🛡 Mission  
+My ultimate goal is to become a globally recognized engineer and, in the long term, a director at a leading FAANG company. I aim to use technology to improve the world and educate more people about its transformative potential.
+
+---
+
+## 🌐 Let's Connect  
+- **Twitter:** [@okpe_onoja](https://twitter.com/okpe_onoja)  
+- **Instagram:** [@iam_the_code](https://instagram.com/iam_the_code)  
+- **LinkedIn:** [Okpe Onoja](https://www.linkedin.com/in/okpe-onoja/)  
+
+---
+
+## 📬 Contact or Hire Me    
+- **Email:** okpeonoja18@gmail.com  
+
+Feel free to reach out for collaborations, project inquiries, or if you need help with a project. I’d love to hear from you! 🚀
+
+---
+
+Thank you for visiting! 🌟
