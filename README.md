@@ -1,4 +1,6 @@
-# 👨‍💻 Okpe Onoja Godwin
+# 👋 Hi there, I'm Okpe Onoja Godwin
+
+![Profile Views](https://komarev.com/ghpvc/?username=onoja123v&color=green)
 
 A full-stack developer with 5+ years of experience in building high-quality applications and backend systems. I specialize in crafting intuitive UIs, scalable databases, and robust APIs. Passionate about learning new technologies and continuously improving my skills, I thrive in team environments where I can contribute my technical expertise and problem-solving abilities to drive successful project outcomes.  
 
