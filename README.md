@@ -30,7 +30,8 @@ My ultimate goal is to become a globally recognized engineer and, in the long te
 ---
 
 ## 📬 Contact or Hire Me    
-- **Email:** okpeonoja18@gmail.com  
+- **Email:** okpeonoja18@gmail.com
+- **Hire Me:** [Click Here](https://contra.com/onoja_okpe/work)  
 
 Feel free to reach out for collaborations, project inquiries, or if you need help with a project. I’d love to hear from you! 🚀
 
